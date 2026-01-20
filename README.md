@@ -24,3 +24,7 @@ This project analyzes **public sentiment on Artificial Intelligence, Machine Lea
 ## Outcome
 
 The project provides **real-time insights into public opinion on AI-related topics** and demonstrates practical skills in **API integration, NLP preprocessing, sentiment analysis, and business-focused data visualization**.
+
+
+## Error Explained
+As the api I have used was having limit so it won't display the results you need to replace with your token
